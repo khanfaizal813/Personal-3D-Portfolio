@@ -120,7 +120,7 @@ export const EXPERIENCES = [
     company_name: "Programmers.io",
     icon: programmers_io_logo,
     iconBg: "#383E56",
-    date: "Seop 2025 – Present",
+    date: "Sep 2025 – Present",
     points: [
       "Working as a Senior Software Engineer focusing on Angular-based enterprise applications and modern frontend architecture.",
       "Leading and mentoring junior developers by reviewing code, assigning tasks, and providing technical guidance to improve team productivity.",
