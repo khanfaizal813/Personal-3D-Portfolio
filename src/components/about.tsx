@@ -54,22 +54,20 @@ export const About = () => {
           variants={fadeIn("", "", 0.1, 1)}
           className="empty-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
         >
-          I am a seasoned Frontend Engineer specializing in Angular, React, and
-          TypeScript. With a strong background in JavaScript and a keen eye for
-          design, I create web applications that are both functional and
-          visually appealing.I thrive in collaborative environments and am
-          always eager to take on new challenges and learn new technologies. 
-          
+          I’m a Senior Software Engineer with 6+ years of experience across Angular, React, Node.js, and MongoDB, building scalable full-stack applications. I specialize in modern Angular (Signals, performance optimization), system design, and frontend architecture, while also contributing to backend services and APIs.
+          Recently, I’ve been working on integrating AI capabilities using OpenAI GPT to build smarter, automation-driven features. I also mentor developers, contribute to architecture decisions, and focus on writing clean, scalable code.
+          Open to opportunities in Full Stack and AI-driven development.
+
         </motion.p>
         <br></br>
         <motion.p
           variants={fadeIn("", "", 0.1, 1)}
           className="empty-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
         >
-        I'm open to Job opportunities where I can contribute, learn and grow. If
+          I'm open to Job opportunities where I can contribute, learn and grow. If
           you have a good opportunity that matches my skills and experience then
           don't hesitate to contact me.
-          </motion.p>
+        </motion.p>
 
         {/* Service Card */}
         <div className="mt-20 flex flex-wrap gap-10">

@@ -24,6 +24,7 @@ import {
   mavenCluster,
   famacash,
 } from "../assets";
+import programmers_io_logo  from "../assets/company/programmers_io_logo.jpg";
 
 // Navbar Links
 export const NAV_LINKS = [
@@ -114,12 +115,26 @@ export const TECHNOLOGIES = [
 
 // Experiences
 export const EXPERIENCES = [
+    {
+    title: "Senior Software Engineer (AI Full Stack Engineer)",
+    company_name: "Programmers.io",
+    icon: programmers_io_logo,
+    iconBg: "#383E56",
+    date: "Seop 2025 – Present",
+    points: [
+      "Working as a Senior Software Engineer focusing on Angular-based enterprise applications and modern frontend architecture.",
+      "Leading and mentoring junior developers by reviewing code, assigning tasks, and providing technical guidance to improve team productivity.",
+      "Actively involved in POCs using AI tools and LLMs (OpenAI GPT) to explore intelligent features and automation use cases.",
+      "Contributing to technical architecture decisions for scalable Angular and React applications.",
+      "Gaining hands-on experience with the latest Angular versions (including upcoming features), focused on AI integrations and modern architecture patterns.",
+    ],
+  },
   {
     title: "Senior Development Engineer (Frontend Engineer)",
     company_name: "Calsoft",
     icon: calsoft,
     iconBg: "#383E56",
-    date: "Dec 2022 – Present",
+    date: "Dec 2022 – Aug 2025",
     points: [
       "Contributed as a Front-End Developer to a critical initiative at Asigra, developing four unique connectors for a backup and recovery utility on Linux and Windows platforms. Collaborated with four cross-functional teams, each responsible for a separate connector.",
       "Designed and implemented responsive, intuitive user interfaces using Angular, TypeScript, HTML5, SASS, and Materialize, seamlessly integrating with Java-based server-side applications.",
